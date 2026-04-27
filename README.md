@@ -33,9 +33,9 @@ I am a developer specializing in building robust software and intuitive web inte
 ### 🛠 Tech Stack
 | Domain | Technologies |
 | :--- | :--- |
-| **Development** | [Primary Languages e.g. JavaScript, Python] |
+| **Development** | Python,javascript,typescript |
+| **Frameworks** | React,Flask,Django |
 | **Design** | Web Design, UI Architecture, Responsive Systems |
-| **Tools** | Git, [Other Tools] |
 
 
 ### 📫 Connect with StaticFlow
